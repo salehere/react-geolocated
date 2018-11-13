@@ -45,7 +45,7 @@
         "prettier": "^1.11.1",
         "pretty-quick": "^1.4.1",
         "purecss": "^1.0.0",
-        "react": "^16.2.0",
+        "react": "^16.6.3",
         "react-dom": "^16.2.0",
         "react-github-corner": "^2.1.0",
         "react-test-renderer": "^16.2.0",
