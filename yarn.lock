@@ -7371,10 +7371,10 @@ pretty-format@^22.4.0:
     ansi-regex "^3.0.0"
     ansi-styles "^3.2.0"
 
-pretty-quick@^1.4.1:
-  version "1.4.1"
-  resolved "https://registry.yarnpkg.com/pretty-quick/-/pretty-quick-1.4.1.tgz#9d41f778d2d4d940ec603d1293a0998e84c4722c"
-  integrity sha512-Q4V2GAflSaM739kKH63utbfI2n4s2fCDCyjFC4ykxA9ueb7FknLcLAZSKa3DejHMt5q9Fq395eKTZ9wYwoILBw==
+pretty-quick@^1.8.1:
+  version "1.8.1"
+  resolved "https://registry.yarnpkg.com/pretty-quick/-/pretty-quick-1.8.1.tgz#af7b046fdd1d36c29f558c5585aa80db30c7f1db"
+  integrity sha512-HPCl9fVtifPAgkoD9ZtuZRfeCZO/mzNdAOqCNEFBLRanOyhNRZpY97UnFZAdCwumCx9LQUJwCCsW4qleQDjP2g==
   dependencies:
     chalk "^2.3.0"
     execa "^0.8.0"
